@@ -24,7 +24,3 @@
 *  Running a logistic regression to predict the price of wine off of the words in a wine review resulted in an overall accuracy if 66%.
 * To improve accuracy will be to run a grid search, categorize the wines into more defined wine priced categories and running additional classifiers on our train and test data.
 * There is an opportunity to increase prices on certain wines if their reviews are over 88pts with the price point in the low range, in order to increase revenue. 
- 
-# Next Step:
-- Check out my repository classifying the type of wine from 19 different categories based off of the words in a wine review using a multilayer perceptron. I was experimenting with 4 different regularization methods (Early Stopping, L1, L2, and Dropout) to see which ones would get me the best results. 
-https://github.com/jarty13/Using-MLP-to-categorize-wine-based-off-of-wine-reviews
